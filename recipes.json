@@ -1,0 +1,45 @@
+{
+  "recipes": [
+    {
+      "id": "brownies",
+      "title": "Chocolate Brownies",
+      "image": "assets/brownie.webp",
+      "ingredients": [
+        "1/2 cup butter",
+        "1 cup sugar",
+        "1/2 cup cocoa powder",
+        "2 eggs"
+      ],
+      "steps": [
+        {
+          "description": "Preheat oven to 180°C",
+          "time": 2
+        },
+        {
+          "description": "Bake brownies for 20 minutes",
+          "time": 1200
+        }
+      ]
+    },
+    {
+      "id": "cookies",
+      "title": "Crispy Cookies",
+      "image": "assets/cookies.webp",
+      "ingredients": [
+        "2 cups flour",
+        "1 cup sugar",
+        "1 tsp baking soda"
+      ],
+      "steps": [
+        {
+          "description": "Preheat oven to 170°C",
+          "time": 180
+        },
+        {
+          "description": "Bake for 15 minutes",
+          "time": 900
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif; /* or your preferred font */
+  background-color: #f8f9fa; /* Slightly off-white background */
+  color: #333; /* Dark text color */
+}
+
+.navbar-brand{
+  font-family: 'Playwrite GB S', cursive;
+  font-size: 2em;
+}
