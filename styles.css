@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif; /* or your preferred font */
+  background-color: #f8f9fa; /* Slightly off-white background */
+  color: #333; /* Dark text color */
+}
+
+/* 3. Custom Classes */
+/* You can add your own classes here for further customization. */
+.highlight {
+  background-color: #ffc107; /* Bootstrap's warning color for demonstration */
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  color: #212529; /* Dark text for contrast */
+}
+
+.muted-text {
+  color: #6c757d; /* Bootstrap’s muted text color */
+}
+
+/* 4. Utility Classes */
+/* Add any specific utility classes that you want to reuse. */
+.margin-top-large {
+  margin-top: 3rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* 5. Media Queries
+ * Add responsive adjustments here if you need custom breakpoints.
+ */
+/*
+@media (max-width: 768px) {
+  .some-class {
+    font-size: 1rem;
+  }
+}
+*/
